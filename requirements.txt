@@ -1,0 +1,11 @@
+streamlit
+openpyxl
+openai
+docx
+dotenv
+os
+azure.storage.blob
+tempfile
+json
+io
+datetime
